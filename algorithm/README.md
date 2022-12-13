@@ -28,7 +28,7 @@ be calculated by summing exactly four of the five integers. (The output can be g
 integer.)
 Simple input
 1 2 3 4 5
-Simple input
+Simple output 
 10 14
 
 
